@@ -647,3 +647,195 @@ background-color:rgb(128, 128, 173);
 
 
 
+/* start TESTIMONIAL*/
+.TESTIMONIAL1{
+    margin-left: 200px;
+    background-color: beige;
+    width: 1000px;
+    height: 200px;
+}
+.divh2{
+    color: palevioletred;
+}
+/* start footer*/
+
+
+
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.664);
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 180px;
+  
+}
+.footer-icon{
+    text-align: center;
+    padding-top: 100px;
+letter-spacing: 5px;
+}
+.footer-card{
+    display: inline-block;
+}
+.footer-card1{
+    width: 300px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 150px;
+  margin-right: 1000px;
+  padding-bottom: 130px;
+  
+}
+.footer-title{
+    font-size: 1.5rem;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 30px;
+
+}
+.footer-p{
+    color: white;
+ font-size: 1rem;
+ font-weight: lighter;  
+
+
+}
+.footer-card2{
+    width: 250px;
+    height: 150px;
+    background-color:;
+    margin-left: 350px;
+    margin-top: -315px;
+  margin-right: 1000px;
+  padding-bottom: 130px;
+
+
+
+
+
+
+
+
+
+
+}
+.footer-tag{
+    position: absolute;
+margin-top: 20px;
+margin-left: -60px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+border: 2px solid palevioletred;
+text-decoration: none;
+background-color: palevioletred;
+ text-transform: uppercase
+ 
+}
+.footer-card3{
+    width: 250px;
+    height: 150px;
+   
+    margin-left: 650px;
+    margin-top: -315px;
+  margin-right: 1000px;
+  padding-bottom: 130px;
+}
+.footer-card4{
+    width: 250px;
+    height: 150px;
+    margin-left: 920px;
+    margin-top: -310px;
+  margin-right: 1000px;
+  padding-bottom: 130px;
+}
+.contact-titl{
+    color: white;
+}
+
+/* end footer*/
+
+
+
+/*start contact*/
+
+
+
+
+
+
+
+
+
+.contact-h1{
+    color: black;
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 30px;
+}
+.contact-p{
+   
+    padding-bottom: 300px;
+width: 700px;
+
+}
+.contact{
+    padding-top: 2rem;
+display: inline-block;
+}
+
+.contact-item{
+    margin-bottom: 3rem;
+
+}
+.contact-title{
+
+    text-transform: uppercase;
+
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+
+}
+
+.contact-text{
+text-transform: uppercase;
+}
+.form-control{
+    display: block;
+    width: 100%;
+    border-bottom: 2px solid black;
+    outline: none;
+    margin: 2rem 0;
+    padding: 1.3rem 0;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+
+
+
+
+@media screen and (min-width:992px ) {
+.contact-info , .contact-form{
+float: left;
+width: 50%;
+padding: 0 1rem;
+
+}
+
+
+.contact-info{
+    padding-top: 5rem;
+}
+
+}
+.contact-form{
+    margin-left: 650px;
+    margin-top: -430px;
+}
+
+
+
+
+/* end contact*/
